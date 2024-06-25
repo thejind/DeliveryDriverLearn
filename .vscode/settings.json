@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "DeliverlyDriverLearn.sln"
+    "dotnet.defaultSolution": "DeliveryDriverLearn.sln"
 }
